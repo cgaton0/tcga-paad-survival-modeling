@@ -1,120 +1,119 @@
 Patient Id,Outcome,Treatment Duration,Agents,Treatment Type
-TCGA-2L-AAQA,Progressive Disease,126,Gemcitabine,Monotherapy
-TCGA-2L-AAQE,Progressive Disease,,Gemcitabine,Monotherapy
-TCGA-2L-AAQI,Progressive Disease,72,Gemcitabine,Monotherapy
-TCGA-2L-AAQJ,Progressive Disease,171,Gemcitabine,Monotherapy
-TCGA-3A-A9I5,Complete Response,211,Fluorouracil Leucovorin Gemcitabine,Combination
-TCGA-3A-A9I7,,139,Fluorouracil Leucovorin Gemcitabine,Combination
-TCGA-3A-A9I9,Stable Disease,265,Gemcitabine,Monotherapy
-TCGA-3A-A9I9,Progressive Disease,620,FOLFOX/XELOX,Combination
-TCGA-3A-A9I9,Stable Disease,336,FOLFOX/XELOX,Combination
-TCGA-3A-A9IC,Progressive Disease,722,Gemcitabine,Monotherapy
-TCGA-3A-A9IC,Stable Disease,245,Fluorouracil Leucovorin Gemcitabine,Combination
-TCGA-3A-A9IH,Stable Disease,538,Gemcitabine Oxaliplatin,Combination
-TCGA-3A-A9IH,Treatment Ongoing,,FOLFIRI,Combination
-TCGA-3A-A9IX,Complete Response,239,Fluorouracil Leucovorin Gemcitabine,Combination
-TCGA-3A-A9IZ,Progressive Disease,224,Gemcitabine,Monotherapy
-TCGA-3A-A9J0,Progressive Disease,335,Gemcitabine,Monotherapy
-TCGA-3A-A9J0,Treatment Ongoing,,FOLFOX/XELOX,Combination
-TCGA-3E-AAAZ,Partial Response,1789,Capecitabine Docetaxel Gemcitabine,Combination
-TCGA-F2-6879,Partial Response,225,Gemcitabine,Monotherapy
-TCGA-F2-6880,Complete Response,167,Gemcitabine,Monotherapy
-TCGA-F2-7273,Treatment Ongoing,,FOLFIRINOX,Combination
-TCGA-F2-7273,Stable Disease,221,Gemcitabine,Monotherapy
-TCGA-F2-7273,Progressive Disease,90,Capecitabine,Monotherapy
-TCGA-F2-7276,Progressive Disease,141,Gemcitabine,Monotherapy
-TCGA-F2-A44G,Complete Response,75,Capecitabine Gemcitabine,Combination
-TCGA-F2-A44H,Complete Response,267,Capecitabine Gemcitabine,Combination
-TCGA-F2-A8YN,Progressive Disease,147,Gemcitabine,Monotherapy
-TCGA-FB-A4P6,Complete Response,726,FOLFIRINOX,Combination
-TCGA-FB-A545,Progressive Disease,634,FOLFOX/XELOX,Combination
-TCGA-FB-A545,Complete Response,224,Fluorouracil Leucovorin Gemcitabine,Combination
-TCGA-FB-A5VM,Progressive Disease,162,Gemcitabine,Monotherapy
-TCGA-FB-A5VM,Treatment Ongoing,,FOLFOX/XELOX,Combination
-TCGA-FB-A78T,Complete Response,115,Gemcitabine,Monotherapy
-TCGA-FB-AAPP,Progressive Disease,150,Gemcitabine,Monotherapy
-TCGA-FB-AAPP,Progressive Disease,303,Capecitabine Gemcitabine,Combination
-TCGA-FB-AAPY,Complete Response,243,Gemcitabine,Monotherapy
-TCGA-FB-AAPZ,,543,Gemcitabine Oxaliplatin,Combination
-TCGA-FB-AAQ6,Complete Response,156,Gemcitabine,Monotherapy
-TCGA-FZ-5919,Progressive Disease,157,Gemcitabine,Monotherapy
-TCGA-FZ-5922,Progressive Disease,800,Erlotinib Gemcitabine,Combination
-TCGA-FZ-5923,Progressive Disease,444,Gemcitabine,Monotherapy
-TCGA-FZ-5924,Progressive Disease,362,Gemcitabine,Monotherapy
-TCGA-H6-8124,Complete Response,205,Capecitabine,Monotherapy
-TCGA-H8-A6C1,Complete Response,233,Gemcitabine,Monotherapy
-TCGA-H8-A6C1,Treatment Ongoing,,FOLFIRINOX,Combination
-TCGA-HV-A7OP,Treatment Ongoing,,FOLFOX/XELOX,Combination
-TCGA-HV-A7OP,Progressive Disease,77,Fluorouracil Leucovorin,Monotherapy
-TCGA-HV-AA8V,Progressive Disease,780,Cisplatin Fluorouracil Leucovorin Gemcitabine,Combination
-TCGA-HV-AA8X,Progressive Disease,253,Gemcitabine,Monotherapy
-TCGA-HZ-7918,Complete Response,137,Gemcitabine,Monotherapy
-TCGA-HZ-7918,Stable Disease,960,FOLFIRINOX,Combination
-TCGA-HZ-7920,Complete Response,118,Fluorouracil Leucovorin,Monotherapy
-TCGA-HZ-7923,Complete Response,194,Gemcitabine,Monotherapy
-TCGA-HZ-7924,Complete Response,522,Gemcitabine,Monotherapy
-TCGA-HZ-8001,Complete Response,265,Capecitabine Gemcitabine,Combination
-TCGA-HZ-8317,Progressive Disease,186,Gemcitabine,Monotherapy
-TCGA-HZ-8637,Complete Response,351,Gemcitabine,Monotherapy
-TCGA-HZ-A49G,Progressive Disease,235,Gemcitabine,Monotherapy
-TCGA-HZ-A49H,Complete Response,207,Gemcitabine,Monotherapy
-TCGA-HZ-A49I,Progressive Disease,86,Fluorouracil Leucovorin,Monotherapy
-TCGA-HZ-A77O,Progressive Disease,120,Gemcitabine,Monotherapy
-TCGA-HZ-A77P,Complete Response,146,Gemcitabine,Monotherapy
-TCGA-HZ-A9TJ,,81,FOLFIRINOX,Combination
-TCGA-HZ-A9TJ,Progressive Disease,532,Gemcitabine,Monotherapy
-TCGA-IB-7644,Progressive Disease,217,Gemcitabine,Monotherapy
-TCGA-IB-7645,Progressive Disease,1377,FOLFOX/XELOX,Combination
-TCGA-IB-7645,Progressive Disease,1230,Carboplatin Gemcitabine,Combination
-TCGA-IB-7645,Complete Response,178,Fluorouracil Leucovorin,Monotherapy
-TCGA-IB-7645,Stable Disease,1230,Gemcitabine,Monotherapy
-TCGA-IB-7647,Progressive Disease,537,Gemcitabine,Monotherapy
-TCGA-IB-7651,Progressive Disease,581,FOLFOX/XELOX,Combination
-TCGA-IB-7651,Progressive Disease,343,Gemcitabine,Monotherapy
-TCGA-IB-7652,Complete Response,268,Gemcitabine,Monotherapy
-TCGA-IB-7885,Complete Response,279,Gemcitabine,Monotherapy
-TCGA-IB-7888,Progressive Disease,881,Gemcitabine,Monotherapy
-TCGA-IB-7888,Stable Disease,329,Fluorouracil Leucovorin Gemcitabine,Combination
-TCGA-IB-7889,Progressive Disease,202,Gemcitabine,Monotherapy
-TCGA-IB-7891,Complete Response,223,Fluorouracil Leucovorin,Monotherapy
-TCGA-IB-7891,Stable Disease,859,Gemcitabine,Monotherapy
-TCGA-IB-7891,Stable Disease,539,FOLFIRINOX,Combination
-TCGA-IB-8126,Progressive Disease,413,Gemcitabine,Monotherapy
-TCGA-IB-8127,Complete Response,194,Gemcitabine,Monotherapy
-TCGA-IB-A5SO,Progressive Disease,309,Gemcitabine,Monotherapy
-TCGA-IB-A5SP,Progressive Disease,169,Gemcitabine,Monotherapy
-TCGA-IB-A5SS,Partial Response,259,Gemcitabine,Monotherapy
-TCGA-IB-A6UF,Treatment Ongoing,,FOLFIRI,Combination
-TCGA-IB-A6UF,Complete Response,271,Gemcitabine,Monotherapy
-TCGA-IB-A7LX,Progressive Disease,151,FOLFIRINOX,Combination
-TCGA-IB-A7LX,Progressive Disease,230,Gemcitabine,Monotherapy
-TCGA-IB-AAUO,Progressive Disease,205,Gemcitabine,Monotherapy
-TCGA-IB-AAUP,Treatment Ongoing,,Gemcitabine,Monotherapy
-TCGA-IB-AAUQ,Progressive Disease,169,FOLFIRINOX,Combination
-TCGA-IB-AAUS,Treatment Ongoing,,Gemcitabine,Monotherapy
-TCGA-IB-AAUT,Treatment Ongoing,,Gemcitabine,Monotherapy
-TCGA-IB-AAUU,Treatment Ongoing,,Gemcitabine,Monotherapy
-TCGA-IB-AAUV,Treatment Ongoing,,Gemcitabine,Monotherapy
-TCGA-IB-AAUW,Treatment Ongoing,,Gemcitabine,Monotherapy
-TCGA-L1-A7W4,Progressive Disease,225,Gemcitabine,Monotherapy
-TCGA-LB-A7SX,,177,Gemcitabine Nab-paclitaxel,Combination
-TCGA-LB-A8F3,Complete Response,225,Gemcitabine,Monotherapy
-TCGA-LB-A9Q5,Progressive Disease,310,Gemcitabine Nab-paclitaxel,Combination
-TCGA-OE-A75W,Progressive Disease,153,Fluorouracil Leucovorin,Monotherapy
-TCGA-Q3-A5QY,Partial Response,92,Gemcitabine,Monotherapy
-TCGA-RB-AA9M,Progressive Disease,218,Gemcitabine,Monotherapy
-TCGA-S4-A8RM,Complete Response,264,Gemcitabine,Monotherapy
-TCGA-S4-A8RO,,485,FOLFOX/XELOX,Combination
-TCGA-S4-A8RO,,378,Gemcitabine Nab-paclitaxel,Combination
-TCGA-S4-A8RP,,,Fluorouracil Leucovorin Gemcitabine Oxaliplatin,Combination
-TCGA-US-A774,Progressive Disease,250,Gemcitabine,Monotherapy
-TCGA-XD-AAUG,Progressive Disease,109,Gemcitabine Nab-paclitaxel,Combination
-TCGA-XD-AAUG,Treatment Ongoing,,FOLFIRINOX,Combination
-TCGA-XD-AAUH,Treatment Ongoing,,Gemcitabine,Monotherapy
-TCGA-XD-AAUI,Progressive Disease,181,Gemcitabine,Monotherapy
-TCGA-XD-AAUI,Treatment Ongoing,,FOLFOX/XELOX,Combination
-TCGA-XD-AAUL,Treatment Ongoing,,Gemcitabine,Monotherapy
-TCGA-YB-A89D,Complete Response,210,Gemcitabine,Monotherapy
-TCGA-YY-A8LH,Partial Response,71,Gemcitabine,Monotherapy
-TCGA-YY-A8LH,Complete Response,218,Capecitabine Gemcitabine,Combination
-TCGA-Z5-AAPL,Complete Response,21,Cyclophosphamide Doxorubicin Fluorouracil Leucovorin,Combination
+TCGA-2L-AAQA,Progressive Disease,126,Gemcitabine,Monoterapia
+TCGA-2L-AAQE,Progressive Disease,,Gemcitabine,Monoterapia
+TCGA-2L-AAQI,Progressive Disease,72,Gemcitabine,Monoterapia
+TCGA-2L-AAQJ,Progressive Disease,171,Gemcitabine,Monoterapia
+TCGA-3A-A9I5,Complete Response,211,Fluorouracil Leucovorin Gemcitabine,Combinación
+TCGA-3A-A9I9,Progressive Disease,620,FOLFOX/XELOX,Combinación
+TCGA-3A-A9I9,Stable Disease,336,FOLFOX/XELOX,Combinación
+TCGA-3A-A9I9,Stable Disease,265,Gemcitabine,Monoterapia
+TCGA-3A-A9IC,Stable Disease,245,Fluorouracil Leucovorin Gemcitabine,Combinación
+TCGA-3A-A9IC,Progressive Disease,722,Gemcitabine,Monoterapia
+TCGA-3A-A9IH,Stable Disease,538,Gemcitabine Oxaliplatin,Combinación
+TCGA-3A-A9IH,Treatment Ongoing,,FOLFIRI,Combinación
+TCGA-3A-A9IX,Complete Response,239,Fluorouracil Leucovorin Gemcitabine,Combinación
+TCGA-3A-A9IZ,Progressive Disease,224,Gemcitabine,Monoterapia
+TCGA-3A-A9J0,Progressive Disease,335,Gemcitabine,Monoterapia
+TCGA-3A-A9J0,Treatment Ongoing,,FOLFOX/XELOX,Combinación
+TCGA-3E-AAAZ,Partial Response,1789,Capecitabine Docetaxel Gemcitabine,Combinación
+TCGA-F2-6879,Partial Response,225,Gemcitabine,Monoterapia
+TCGA-F2-6880,Complete Response,167,Gemcitabine,Monoterapia
+TCGA-F2-7273,Treatment Ongoing,,FOLFIRINOX,Combinación
+TCGA-F2-7273,Progressive Disease,90,Capecitabine,Monoterapia
+TCGA-F2-7273,Stable Disease,221,Gemcitabine,Monoterapia
+TCGA-F2-7276,Progressive Disease,141,Gemcitabine,Monoterapia
+TCGA-F2-A44G,Complete Response,75,Capecitabine Gemcitabine,Combinación
+TCGA-F2-A44H,Complete Response,267,Capecitabine Gemcitabine,Combinación
+TCGA-F2-A8YN,Progressive Disease,147,Gemcitabine,Monoterapia
+TCGA-FB-A4P6,Complete Response,726,FOLFIRINOX,Combinación
+TCGA-FB-A545,Progressive Disease,634,FOLFOX/XELOX,Combinación
+TCGA-FB-A545,Complete Response,224,Fluorouracil Leucovorin Gemcitabine,Combinación
+TCGA-FB-A5VM,Progressive Disease,162,Gemcitabine,Monoterapia
+TCGA-FB-A5VM,Treatment Ongoing,,FOLFOX/XELOX,Combinación
+TCGA-FB-A78T,Complete Response,115,Gemcitabine,Monoterapia
+TCGA-FB-AAPP,Progressive Disease,150,Gemcitabine,Monoterapia
+TCGA-FB-AAPP,Progressive Disease,303,Capecitabine Gemcitabine,Combinación
+TCGA-FB-AAPY,Complete Response,243,Gemcitabine,Monoterapia
+TCGA-FB-AAPZ,,543,Gemcitabine Oxaliplatin,Combinación
+TCGA-FB-AAQ6,Complete Response,156,Gemcitabine,Monoterapia
+TCGA-FZ-5919,Progressive Disease,157,Gemcitabine,Monoterapia
+TCGA-FZ-5922,Progressive Disease,800,Erlotinib Gemcitabine,Combinación
+TCGA-FZ-5923,Progressive Disease,444,Gemcitabine,Monoterapia
+TCGA-FZ-5924,Progressive Disease,362,Gemcitabine,Monoterapia
+TCGA-H6-8124,Complete Response,205,Capecitabine,Monoterapia
+TCGA-H8-A6C1,Treatment Ongoing,,FOLFIRINOX,Combinación
+TCGA-H8-A6C1,Complete Response,233,Gemcitabine,Monoterapia
+TCGA-HV-A7OP,Progressive Disease,77,Fluorouracil Leucovorin,Monoterapia
+TCGA-HV-A7OP,Treatment Ongoing,,FOLFOX/XELOX,Combinación
+TCGA-HV-AA8V,Progressive Disease,780,Cisplatin Fluorouracil Leucovorin Gemcitabine,Combinación
+TCGA-HV-AA8X,Progressive Disease,253,Gemcitabine,Monoterapia
+TCGA-HZ-7918,Complete Response,137,Gemcitabine,Monoterapia
+TCGA-HZ-7918,Stable Disease,960,FOLFIRINOX,Combinación
+TCGA-HZ-7920,Complete Response,118,Fluorouracil Leucovorin,Monoterapia
+TCGA-HZ-7923,Complete Response,194,Gemcitabine,Monoterapia
+TCGA-HZ-7924,Complete Response,522,Gemcitabine,Monoterapia
+TCGA-HZ-8001,Complete Response,265,Capecitabine Gemcitabine,Combinación
+TCGA-HZ-8317,Progressive Disease,186,Gemcitabine,Monoterapia
+TCGA-HZ-8637,Complete Response,351,Gemcitabine,Monoterapia
+TCGA-HZ-A49G,Progressive Disease,235,Gemcitabine,Monoterapia
+TCGA-HZ-A49H,Complete Response,207,Gemcitabine,Monoterapia
+TCGA-HZ-A49I,Progressive Disease,86,Fluorouracil Leucovorin,Monoterapia
+TCGA-HZ-A77O,Progressive Disease,120,Gemcitabine,Monoterapia
+TCGA-HZ-A77P,Complete Response,146,Gemcitabine,Monoterapia
+TCGA-HZ-A9TJ,,81,FOLFIRINOX,Combinación
+TCGA-HZ-A9TJ,Progressive Disease,532,Gemcitabine,Monoterapia
+TCGA-IB-7644,Progressive Disease,217,Gemcitabine,Monoterapia
+TCGA-IB-7645,Progressive Disease,1377,FOLFOX/XELOX,Combinación
+TCGA-IB-7645,Progressive Disease,1230,Carboplatin Gemcitabine,Combinación
+TCGA-IB-7645,Complete Response,178,Fluorouracil Leucovorin,Monoterapia
+TCGA-IB-7645,Stable Disease,1230,Gemcitabine,Monoterapia
+TCGA-IB-7647,Progressive Disease,537,Gemcitabine,Monoterapia
+TCGA-IB-7651,Progressive Disease,581,FOLFOX/XELOX,Combinación
+TCGA-IB-7651,Progressive Disease,343,Gemcitabine,Monoterapia
+TCGA-IB-7652,Complete Response,268,Gemcitabine,Monoterapia
+TCGA-IB-7885,Complete Response,279,Gemcitabine,Monoterapia
+TCGA-IB-7888,Progressive Disease,881,Gemcitabine,Monoterapia
+TCGA-IB-7888,Stable Disease,329,Fluorouracil Leucovorin Gemcitabine,Combinación
+TCGA-IB-7889,Progressive Disease,202,Gemcitabine,Monoterapia
+TCGA-IB-7891,Stable Disease,539,FOLFIRINOX,Combinación
+TCGA-IB-7891,Complete Response,223,Fluorouracil Leucovorin,Monoterapia
+TCGA-IB-7891,Stable Disease,859,Gemcitabine,Monoterapia
+TCGA-IB-8126,Progressive Disease,413,Gemcitabine,Monoterapia
+TCGA-IB-8127,Complete Response,194,Gemcitabine,Monoterapia
+TCGA-IB-A5SO,Progressive Disease,309,Gemcitabine,Monoterapia
+TCGA-IB-A5SP,Progressive Disease,169,Gemcitabine,Monoterapia
+TCGA-IB-A5SS,Partial Response,259,Gemcitabine,Monoterapia
+TCGA-IB-A6UF,Treatment Ongoing,,FOLFIRI,Combinación
+TCGA-IB-A6UF,Complete Response,271,Gemcitabine,Monoterapia
+TCGA-IB-A7LX,Progressive Disease,151,FOLFIRINOX,Combinación
+TCGA-IB-A7LX,Progressive Disease,230,Gemcitabine,Monoterapia
+TCGA-IB-AAUO,Progressive Disease,205,Gemcitabine,Monoterapia
+TCGA-IB-AAUP,Treatment Ongoing,,Gemcitabine,Monoterapia
+TCGA-IB-AAUQ,Progressive Disease,169,FOLFIRINOX,Combinación
+TCGA-IB-AAUS,Treatment Ongoing,,Gemcitabine,Monoterapia
+TCGA-IB-AAUT,Treatment Ongoing,,Gemcitabine,Monoterapia
+TCGA-IB-AAUU,Treatment Ongoing,,Gemcitabine,Monoterapia
+TCGA-IB-AAUV,Treatment Ongoing,,Gemcitabine,Monoterapia
+TCGA-IB-AAUW,Treatment Ongoing,,Gemcitabine,Monoterapia
+TCGA-L1-A7W4,Progressive Disease,225,Gemcitabine,Monoterapia
+TCGA-LB-A7SX,,177,Gemcitabine Nab-paclitaxel,Combinación
+TCGA-LB-A8F3,Complete Response,225,Gemcitabine,Monoterapia
+TCGA-LB-A9Q5,Progressive Disease,310,Gemcitabine Nab-paclitaxel,Combinación
+TCGA-OE-A75W,Progressive Disease,153,Fluorouracil Leucovorin,Monoterapia
+TCGA-Q3-A5QY,Partial Response,92,Gemcitabine,Monoterapia
+TCGA-RB-AA9M,Progressive Disease,218,Gemcitabine,Monoterapia
+TCGA-S4-A8RM,Complete Response,264,Gemcitabine,Monoterapia
+TCGA-S4-A8RO,,485,FOLFOX/XELOX,Combinación
+TCGA-S4-A8RO,,378,Gemcitabine Nab-paclitaxel,Combinación
+TCGA-S4-A8RP,,,Fluorouracil Leucovorin Gemcitabine Oxaliplatin,Combinación
+TCGA-US-A774,Progressive Disease,250,Gemcitabine,Monoterapia
+TCGA-XD-AAUG,Treatment Ongoing,,FOLFIRINOX,Combinación
+TCGA-XD-AAUG,Progressive Disease,109,Gemcitabine Nab-paclitaxel,Combinación
+TCGA-XD-AAUH,Treatment Ongoing,,Gemcitabine,Monoterapia
+TCGA-XD-AAUI,Treatment Ongoing,,FOLFOX/XELOX,Combinación
+TCGA-XD-AAUI,Progressive Disease,181,Gemcitabine,Monoterapia
+TCGA-XD-AAUL,Treatment Ongoing,,Gemcitabine,Monoterapia
+TCGA-YB-A89D,Complete Response,210,Gemcitabine,Monoterapia
+TCGA-YY-A8LH,Complete Response,218,Capecitabine Gemcitabine,Combinación
+TCGA-YY-A8LH,Partial Response,71,Gemcitabine,Monoterapia
+TCGA-Z5-AAPL,Complete Response,21,Cyclophosphamide Doxorubicin Fluorouracil Leucovorin,Combinación

@@ -10,7 +10,7 @@ TFM del master de ciencia de datos de la UOC basado en los datos del TCGA-PAAD.
 - tables: Contiene las diferentes tablas generadas durante la ejecución del notebook.
 - Archivo utils.py contiene funciones auxiliares utilizadas en los diferentes notebook.
 
-## Orden ejecución
+## Orden de ejecución
 
 En primer lugar, es necesario ejecutar el notebook llamado "1_Preprocessing". Este notebook realiza todos los procesos de carga y preprocesamiento de los datos y guardas la información resultante en la carpeta processed dentro de data.
 

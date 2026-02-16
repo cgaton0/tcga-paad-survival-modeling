@@ -1,0 +1,103 @@
+# ----------------------------
+# Python
+# ----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dylib
+*.egg*
+*.whl
+
+# Byte-compiled
+*$py.class
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+python_env/
+
+# ----------------------------
+# Data Science / ML / DL
+# ----------------------------
+
+# Datasets
+*.csv
+*.cbt
+*.zip
+*.gz
+*.h5
+*.hdf5
+*.npz
+*.npy
+*.pkl
+*.parquet
+
+# Model weights and checkpoints
+*.ckpt
+*.ckpt.*
+*.pt
+*.pth
+*.tflite
+*.pb
+*.onnx
+*.keras
+checkpoint/
+checkpoints/
+
+# TensorFlow logs
+logs/
+tensorboard/
+*.event*
+
+# ML outputs
+results/
+plots/
+figures/
+*.png
+*.jpg
+
+# ----------------------------
+# Jupyter / Colab
+# ----------------------------
+.ipynb_checkpoints/
+*.ipynb_convert/
+*.nbconvert/
+*.nb.html
+
+# Colab temporary files
+*.ipynb~
+*/.colab
+*/.colab-history
+
+# ----------------------------
+# System / Editor garbage
+# ----------------------------
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+.settings/
+
+# PyCharm
+.idea/
+*.iml
+
+# ----------------------------
+# Build artifacts
+# ----------------------------
+build/
+dist/
+*.spec
+
+# ----------------------------
+# Other
+# ----------------------------
+*.log
+*.tmp
+*.bak

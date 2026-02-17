@@ -34,13 +34,11 @@ python_env/
 *.hdf5
 *.npz
 *.npy
-*.pkl
 *.parquet
 
 # Model weights and checkpoints
 *.ckpt
 *.ckpt.*
-*.pt
 *.pth
 *.tflite
 *.pb
@@ -57,8 +55,9 @@ tensorboard/
 # ML outputs
 results/
 plots/
-figures/
-tables/
+figures/*
+tables/*
+!outputs/.gitkeep
 *.png
 *.jpg
 

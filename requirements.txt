@@ -1,14 +1,22 @@
-requests
-pandas
+# --- Data Processing ---
+joblib
 numpy
-tableone
-pingouin
-plotly
-matplotlib
-seaborn
+pandas
+requests
+scikit-learn
+
+# --- Statistical and Clinical Analysis ---
 lifelines
+pingouin
+tableone
+
+# --- Visualization ---
+matplotlib
+plotly
+seaborn
+
+# --- Deep Learning and Survival (PyCox) ---
+pycox
+shap
 torch
 torchtuples
-shap
-pycox
-joblib
